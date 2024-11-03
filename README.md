@@ -97,8 +97,6 @@ com.laigeoffer.pmhub
 |        guava        | google开源的java工具集     | [https://github.com/google/guava](https://github.com/google/guava)                                                         |
 |      thymeleaf      | html5模板引擎            | [https://www.thymeleaf.org](https://www.thymeleaf.org)                                                                     |
 |       swagger       | API文档生成工具            | [https://swagger.io](https://swagger.io)                                                                                   |
-
-[//]: # (| hibernate-validator | 验证框架                 | [hibernate.org/validator/]&#40;hibernate.org/validator/&#41;                                                                       |)
 |     quick-media     | 多媒体处理                | [https://github.com/liuyueyi/quick-media](https://github.com/liuyueyi/quick-media)                                         |
 |      liquibase      | 数据库版本管理              | [https://www.liquibase.com](https://www.liquibase.com)                                                                     |
 |       jackson       | json/xml处理           | [https://www.jackson.com](https://www.jackson.com)                                                                         |
@@ -106,7 +104,7 @@ com.laigeoffer.pmhub
 |      websocket      | 长连接                  | [https://docs.spring.io/spring/reference/web/websocket.html](https://docs.spring.io/spring/reference/web/websocket.html)   |
 |   sensitive-word    | 敏感词                  | [https://github.com/houbb/sensitive-word](https://github.com/houbb/sensitive-word)                                         |
 |       chatgpt       | chatgpt              | [https://openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)                                                         |
-|        讯飞星火         | 讯飞星火大模型              | [https://www.xfyun.cn/doc/spark/Web.html](https://www.xfyun.cn/doc/spark/Web.html#_1-%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E) |
+
 
 
 ## 七、环境搭建
