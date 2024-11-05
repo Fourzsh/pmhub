@@ -12,8 +12,6 @@ PmHub 包括认证、流程、项目管理、用户、网关等服务。包含�
 
 ## 三、项目详情
 ### 3.1、技术架构
-系统架构
-![pmhub-系统架构图](https://cdn.tobebetterjavaer.com/stutymore/01.什么是PmHub-20240708113736.png)
 
 架构选型
 ![pmhub-架构选型](https://cdn.tobebetterjavaer.com/stutymore/PmHub%E6%9E%B6%E6%9E%84%E9%80%89%E5%9E%8B.png)
